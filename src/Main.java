@@ -8,7 +8,7 @@ public class Main {
         HuffmanDecoder decoder = new HuffmanDecoder();
 
         try {
-            System.out.println("=== Huffman File Compression ===");
+            System.out.println("Huffman File Compression");
             System.out.print("Enter file path to compress: ");
             String filePath = scanner.nextLine();
 
